@@ -1,0 +1,26 @@
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\POSv1\POSv1\bin\Debug\POSv1.exe
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\POSv1\POSv1\bin\Debug\POSv1.pdb
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\POSv1\POSv1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\POSv1\POSv1\obj\Debug\POSv1.frmMain.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\POSv1\POSv1\obj\Debug\POSv1.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\POSv1\POSv1\obj\Debug\POSv1.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\POSv1\POSv1\obj\Debug\POSv1.exe
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\POSv1\POSv1\obj\Debug\POSv1.pdb
+D:\VS2008_projects\POSv1\POSv1\obj\Debug\POSv1.exe
+D:\VS2008_projects\POSv1\POSv1\obj\Debug\POSv1.pdb
+D:\VS2008_projects\POSv1\POSv1\bin\Debug\POSv1.exe
+D:\VS2008_projects\POSv1\POSv1\bin\Debug\POSv1.pdb
+D:\VS2008_projects\POSv1\POSv1\obj\Debug\ResolveAssemblyReference.cache
+D:\VS2008_projects\POSv1\POSv1\obj\Debug\POSv1.frmMain.resources
+D:\VS2008_projects\POSv1\POSv1\obj\Debug\POSv1.Properties.Resources.resources
+D:\VS2008_projects\POSv1\POSv1\obj\Debug\POSv1.frmProducts.resources
+D:\VS2008_projects\POSv1\POSv1\obj\Debug\POSv1.frmStocks.resources
+D:\VS2008_projects\POSv1\POSv1\obj\Debug\POSv1.frmCustomers.resources
+D:\VS2008_projects\POSv1\POSv1\obj\Debug\POSv1.frmSuppliers.resources
+D:\VS2008_projects\POSv1\POSv1\obj\Debug\POSv1.frmSalesReport.resources
+D:\VS2008_projects\POSv1\POSv1\obj\Debug\POSv1.frmUsers.resources
+D:\VS2008_projects\POSv1\POSv1\obj\Debug\POSv1.frmBackup.resources
+D:\VS2008_projects\POSv1\POSv1\obj\Debug\POSv1.frmTransactions.resources
+D:\VS2008_projects\POSv1\POSv1\obj\Debug\GenerateResource.read.1.tlog
+D:\VS2008_projects\POSv1\POSv1\obj\Debug\GenerateResource.write.1.tlog
+D:\VS2008_projects\POSv1\POSv1\obj\Debug\POSv1.frmLogin.resources

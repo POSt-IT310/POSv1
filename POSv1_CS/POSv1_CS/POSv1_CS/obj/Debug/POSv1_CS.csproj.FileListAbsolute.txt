@@ -1,0 +1,9 @@
+D:\VS2008_projects\POSv1\POSv1_CS\POSv1_CS\POSv1_CS\bin\Debug\POSv1_CS.exe
+D:\VS2008_projects\POSv1\POSv1_CS\POSv1_CS\POSv1_CS\bin\Debug\POSv1_CS.pdb
+D:\VS2008_projects\POSv1\POSv1_CS\POSv1_CS\POSv1_CS\obj\Debug\ResolveAssemblyReference.cache
+D:\VS2008_projects\POSv1\POSv1_CS\POSv1_CS\POSv1_CS\obj\Debug\POSv1_CS.frmPOS.resources
+D:\VS2008_projects\POSv1\POSv1_CS\POSv1_CS\POSv1_CS\obj\Debug\POSv1_CS.Properties.Resources.resources
+D:\VS2008_projects\POSv1\POSv1_CS\POSv1_CS\POSv1_CS\obj\Debug\POSv1_CS.exe
+D:\VS2008_projects\POSv1\POSv1_CS\POSv1_CS\POSv1_CS\obj\Debug\POSv1_CS.pdb
+D:\VS2008_projects\POSv1\POSv1_CS\POSv1_CS\POSv1_CS\obj\Debug\GenerateResource.read.1.tlog
+D:\VS2008_projects\POSv1\POSv1_CS\POSv1_CS\POSv1_CS\obj\Debug\GenerateResource.write.1.tlog
